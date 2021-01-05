@@ -29,7 +29,7 @@ var Crafty = require("../core/core.js");
 Crafty.c("Text", {
     _text: "",
     defaultSize: "10px",
-    defaultFamily: "sans-serif",
+    defaultFamily: "arial",
     defaultVariant: "normal",
     defaultLineHeight: "normal",
     defaultTextAlign: "left",
